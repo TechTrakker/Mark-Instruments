@@ -16,8 +16,8 @@
      justify-content: space-between;
      align-items: center;
      padding: 10px 20px;
-     background-color: whitesmoke;
-     color: #333;
+     background-color: black;
+     color: white;
      font-size: 14px;
      flex-wrap: wrap;
      margin-bottom: 2px;
@@ -27,7 +27,7 @@
 
  .header-left a,
  .header-right a {
-     color: #333;
+     color: white;
      text-decoration: none;
      padding: 0 10px;
      transition: color 0.3s ease;
@@ -1119,8 +1119,8 @@
     justify-content: space-between;
     align-items: flex-start;
     padding: 20px;
-    background-color: white;
-    color: #333;
+    background-color: black;
+    color: white;
     flex-wrap: wrap; /* Ensure responsiveness */
 }
  
